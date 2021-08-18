@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 23/07/2019 22:03
+    Creation date: 19/07/2020 09:59
     */
 
     @font-face {
@@ -37,16 +37,20 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-scissors:before { content: "\f100"; }
-.flaticon-beard:before { content: "\f101"; }
-.flaticon-bald:before { content: "\f102"; }
-.flaticon-hair-spray:before { content: "\f103"; }
-.flaticon-hair:before { content: "\f104"; }
-.flaticon-barber-shop:before { content: "\f105"; }
+    .flaticon-volunteer:before { content: "\f100"; }
+.flaticon-piggy-bank:before { content: "\f101"; }
+.flaticon-donation:before { content: "\f102"; }
+.flaticon-ecological:before { content: "\f103"; }
+.flaticon-water-drop:before { content: "\f104"; }
+.flaticon-stethoscope:before { content: "\f105"; }
+.flaticon-bread:before { content: "\f106"; }
+.flaticon-university:before { content: "\f107"; }
     
-    $font-Flaticon-scissors: "\f100";
-    $font-Flaticon-beard: "\f101";
-    $font-Flaticon-bald: "\f102";
-    $font-Flaticon-hair-spray: "\f103";
-    $font-Flaticon-hair: "\f104";
-    $font-Flaticon-barber-shop: "\f105";
+    $font-Flaticon-volunteer: "\f100";
+    $font-Flaticon-piggy-bank: "\f101";
+    $font-Flaticon-donation: "\f102";
+    $font-Flaticon-ecological: "\f103";
+    $font-Flaticon-water-drop: "\f104";
+    $font-Flaticon-stethoscope: "\f105";
+    $font-Flaticon-bread: "\f106";
+    $font-Flaticon-university: "\f107";
